@@ -22,8 +22,20 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+    <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
   <action id="tasks.close" />
 </keymap>
