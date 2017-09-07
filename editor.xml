@@ -8,4 +8,13 @@
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="question" useCustomColors="true" pattern="\byolo\b.*">
+      <option name="FOREGROUND" value="ff2be8" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ff2be8" />
+    </pattern>
+  </component>
 </application>
