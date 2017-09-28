@@ -41,6 +41,12 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
   <action id="QuickActionPopup" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
