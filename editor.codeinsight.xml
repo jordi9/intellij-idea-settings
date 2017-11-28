@@ -1,5 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="avro.shaded" />
     <EXCLUDED_PACKAGE NAME="com.google.inject.Inject" />
+    <EXCLUDED_PACKAGE NAME="org.jdbi.v3.core.generic.internal" />
   </component>
 </application>
