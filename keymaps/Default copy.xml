@@ -7,18 +7,6 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
-    <keyboard-shortcut first-keystroke="ctrl divide" />
-    <keyboard-shortcut first-keystroke="ctrl 7" />
-  </action>
-  <action id="CompileDirty">
-    <keyboard-shortcut first-keystroke="ctrl f9" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="shift ctrl d" />
-  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -30,10 +18,6 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
-  <action id="Git.ResolveConflicts">
-    <keyboard-shortcut first-keystroke="ctrl alt d" />
-  </action>
-  <action id="GotoBookmark7" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
@@ -45,29 +29,8 @@
     <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
-  <action id="ImportModule">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
-  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt o" />
-  </action>
-  <action id="NextEditorTab" />
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt page_up" />
-    <keyboard-shortcut first-keystroke="shift alt left" />
-  </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt right" />
-    <keyboard-shortcut first-keystroke="alt end" />
-  </action>
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="alt page_down" />
-    <keyboard-shortcut first-keystroke="shift alt right" />
-  </action>
-  <action id="PreviousEditorTab" />
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt left" />
-    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="QuickActionPopup" />
   <action id="QuickJavaDoc">
@@ -75,28 +38,15 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="shift alt r" />
-  </action>
-  <action id="SaveAll" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
-  <action id="ShowNavBar" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift alt j" />
     <keyboard-shortcut first-keystroke="shift alt g" />
-  </action>
-  <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="tasks.close" />
