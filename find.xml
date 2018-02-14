@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'fractionalization'" />
-    <option name="defaultScopeName" value="Project 'fractionalization'" />
-    <option name="SEARCH_SCOPE" value="Project 'fractionalization'" />
+    <option name="customScope" value="Directory '...\f15n-common [f15n-common]'" />
+    <option name="defaultScopeName" value="Directory '...\f15n-common [f15n-common]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\f15n-common [f15n-common]'" />
   </component>
 </application>
