@@ -1,9 +1,8 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Consolas" />
-    <option name="FONT_SCALE" value="1.0833334" />
-    <option name="LINE_SPACING" value="1.02" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Menlo" />
+    <option name="LINE_SPACING" value="1.01" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
