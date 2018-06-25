@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.google.inject.Inject" />
     <EXCLUDED_PACKAGE NAME="com.google.inject.Singleton" />
   </component>
 </application>
