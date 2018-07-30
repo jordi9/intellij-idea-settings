@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="page_down" />
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="ctrl n" />
