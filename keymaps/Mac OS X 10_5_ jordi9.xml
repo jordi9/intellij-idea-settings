@@ -43,6 +43,7 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="NewScratchFile" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
@@ -75,4 +76,7 @@
   </action>
   <action id="ToggleBookmark" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
 </keymap>
