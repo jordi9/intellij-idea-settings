@@ -86,7 +86,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FractionalizationShould.metrics'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'StatsApp'">
@@ -159,6 +159,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FractionalizationShould'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FractionalizationShould.metrics'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FractionalizationShould.metrics'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
