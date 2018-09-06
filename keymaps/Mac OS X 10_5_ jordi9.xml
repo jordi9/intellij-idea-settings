@@ -1,7 +1,6 @@
 <keymap version="1" name="Mac OS X 10.5+ jordi9" parent="Mac OS X 10.5+">
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
-    <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
@@ -36,7 +35,6 @@
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
-    <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
@@ -69,8 +67,12 @@
   </action>
   <action id="NewScratchFile" />
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
@@ -78,7 +80,11 @@
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
-    <keyboard-shortcut first-keystroke="ctrl meta left" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
