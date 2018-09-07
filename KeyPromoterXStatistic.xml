@@ -57,6 +57,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'⌘8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Editor">
         <Item>
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
@@ -230,6 +238,22 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Show Diff</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show History">
+        <Item>
+          <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
+          <ShortCut>'⇧⌘H'</ShortCut>
+          <Description>Show History</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
