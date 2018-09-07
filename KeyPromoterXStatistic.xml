@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AddingGroupAndProductShould'">
@@ -337,6 +337,12 @@
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click' or 'F3'</ShortCut>
           <Description>Declaration</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Key Promoter X">
+        <Item>
+          <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
+          <Description>Key Promoter X</Description>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
