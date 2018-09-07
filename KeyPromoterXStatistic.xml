@@ -331,6 +331,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Coverage">
+        <Item>
+          <IdeaActionID>ActivateCoverageToolWindow</IdeaActionID>
+          <Description>Coverage</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
