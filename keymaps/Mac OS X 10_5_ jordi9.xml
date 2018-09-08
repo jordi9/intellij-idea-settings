@@ -4,6 +4,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="BaseOnThisFunction" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="ctrl meta enter" />
@@ -116,8 +117,12 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.BaseOnThisType" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift meta h" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
 </keymap>
