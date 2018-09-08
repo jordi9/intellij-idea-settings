@@ -15,6 +15,10 @@
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Console.TableResult.CompareCells" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDown">
@@ -91,6 +95,7 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="SaveAll" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
