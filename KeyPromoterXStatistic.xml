@@ -433,6 +433,12 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Gradle">
+        <Item>
+          <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
+          <Description>Gradle</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Key Promoter X">
         <Item>
           <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
