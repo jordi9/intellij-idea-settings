@@ -337,6 +337,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MatchingShould'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MatchingShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'com.zopa.investors.api.InvestorsApiApp'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
