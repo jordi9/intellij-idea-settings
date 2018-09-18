@@ -209,6 +209,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FundingShould.fund the product of an investor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FundingShould.fund the product of an investor'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'InvestorsApiScenarioSpec'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -559,6 +567,12 @@
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click' or 'F3'</ShortCut>
           <Description>Declaration</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <Description>Event Log</Description>
         </Item>
       </Statistic>
       <Statistic Action="Gradle">
