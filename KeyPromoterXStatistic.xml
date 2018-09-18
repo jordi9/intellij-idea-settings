@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>37</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -199,6 +199,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FractionalizationShould.metrics'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FundingShould'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FundingShould'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'InvestorsApiScenarioSpec'">
