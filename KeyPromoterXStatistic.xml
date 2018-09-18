@@ -49,6 +49,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Disconnect">
+        <Item>
+          <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Disconnect</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Evaluate Expression...">
         <Item>
           <IdeaActionID>EvaluateExpression</IdeaActionID>
@@ -230,7 +238,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'MatchingShould'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PactVerificationShould'">
