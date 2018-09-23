@@ -107,6 +107,9 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="SaveAll" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
