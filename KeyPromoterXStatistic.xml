@@ -329,6 +329,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'StreamsApplicationStateChangesAcceptanceTests.topologyStatesIsNotifiedWhenChanged'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'StreamsApplicationStateChangesAcceptanceTests.topologyStatesIsNotifiedWhenChanged'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'UrlTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -366,7 +374,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AddingGroupAndProductShould'">
@@ -390,7 +398,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in investors-api-acceptance-test_test'">
@@ -447,6 +455,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'com.zopa.investors.api.InvestorsApiApp'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'topologyStatesIsNo...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'topologyStatesIsNo...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
