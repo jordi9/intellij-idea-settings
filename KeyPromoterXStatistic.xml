@@ -305,6 +305,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OrcoTest.task with high priority gets executed first'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrcoTest.task with high priority gets executed first'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PactVerificationShould'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -583,6 +591,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MatchingShould'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrcoTest.task with high priority gets executed first'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrcoTest.task with high priority gets executed first'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PipelineApp'">
