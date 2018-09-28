@@ -305,6 +305,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OrcoTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrcoTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OrcoTest.task with high priority gets executed first'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -593,12 +601,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OrcoTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrcoTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OrcoTest.task with high priority gets executed first'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'OrcoTest.task with high priority gets executed first'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PipelineApp'">
