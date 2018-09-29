@@ -49,6 +49,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'OrcoTest.schedules requests and process them by priority'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'OrcoTest.schedules requests and process them by priority'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'metrics()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -158,7 +166,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>77</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -311,6 +319,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OrcoTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrcoTest.schedules requests and process them by priority'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrcoTest.schedules requests and process them by priority'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OrcoTest.task with high priority gets executed first'">
@@ -615,6 +631,14 @@
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'OrcoTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrcoTest.schedules requests and process them by priority'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrcoTest.schedules requests and process them by priority'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OrcoTest.task with high priority gets executed first'">
