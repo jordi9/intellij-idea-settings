@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>89</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -518,7 +518,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'com.zopa.investors.fractionalization''</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.zopa.investors.api.InvestorsApiApp'">
@@ -534,6 +534,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'fund an investment...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'match a loan to an...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'match a loan to an...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
