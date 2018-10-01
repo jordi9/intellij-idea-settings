@@ -465,6 +465,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AbstractTopologyTestAcceptanceShould'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'AbstractTopologyTestAcceptanceShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'AddingGroupAndProductShould'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
