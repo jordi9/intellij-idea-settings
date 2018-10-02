@@ -353,6 +353,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LoanServicingRepaymentsTopologyTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LoanServicingRepaymentsTopologyTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MatchingShould'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -734,6 +742,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'JmxExporterMetricsTest.kafka configuration includes rules'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LoanServicingRepaymentsTopologyTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'LoanServicingRepaymentsTopologyTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
