@@ -649,6 +649,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'AbstractTopologyTestAcceptanceShould.scenario can be run with polling manually, different flavour'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'AbstractTopologyTestAcceptanceShould.scenario can be run with polling manually, different flavour'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'AcceptanceAppTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
