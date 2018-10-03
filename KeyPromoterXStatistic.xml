@@ -750,7 +750,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'LoanServicingRepaymentsTopologyTest'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MatchingShould'">
