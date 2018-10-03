@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Module 'investors-fractionalization_main'" />
     <option name="defaultScopeName" value="Module 'investors-fractionalization_main'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'investors-fractionalization_main'" />
     <option name="FILE_MASK" value="*.kt,*.java,*.groovy" />
     <mask>*.properties</mask>
