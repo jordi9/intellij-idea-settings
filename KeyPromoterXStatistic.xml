@@ -879,6 +879,12 @@
           <Description>Event Log</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Gradle">
+        <Item>
+          <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
+          <Description>Gradle</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize">
         <Item>
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
