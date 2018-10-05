@@ -2,5 +2,8 @@
   <component name="CodeInsightSettings">
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <EXCLUDED_PACKAGE NAME="com.google.inject.Singleton" />
+    <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
+    <EXCLUDED_PACKAGE NAME="sun.net.www.protocol" />
+    <EXCLUDED_PACKAGE NAME="sun.plugin.net.protocol.jar.Handler" />
   </component>
 </application>
