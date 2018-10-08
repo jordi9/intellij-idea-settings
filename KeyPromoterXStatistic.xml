@@ -534,7 +534,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'FractionalizationShould'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FundingShould'">
@@ -591,6 +591,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'com.zopa.investors.api.InvestorsApiApp'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'fail because of al...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'fail because of al...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'fund an investment...()'">
@@ -702,7 +710,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FractionalizationShould'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FractionalizationShould.fail because of already processed request'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'FractionalizationShould.fail because of already processed request'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FractionalizationShould.metrics'">
@@ -814,7 +830,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.zopa.investors.api.InvestorsApiApp'</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
