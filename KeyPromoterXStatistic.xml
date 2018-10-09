@@ -281,6 +281,14 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FractionalizationShould.fail because of already processed request'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FractionalizationShould.fail because of already processed request'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FractionalizationShould.metrics'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
