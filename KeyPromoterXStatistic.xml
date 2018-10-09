@@ -457,6 +457,14 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -737,6 +745,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'FundingShould.fund the product of an investor'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'FundingShould.fund the product of an investor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'InvestorsApiShould.metrics'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -839,6 +855,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.zopa.investors.api.InvestorsApiApp'</Description>
           <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
