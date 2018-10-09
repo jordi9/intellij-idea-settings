@@ -108,6 +108,7 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="Replace" />
   <action id="SaveAll" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl e" />
