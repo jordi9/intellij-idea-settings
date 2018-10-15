@@ -793,6 +793,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'InvestorSummaryComponentTest.ada'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'InvestorSummaryComponentTest.ada'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'InvestorsApiShould.metrics'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
