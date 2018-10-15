@@ -329,6 +329,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'IndexesRedisTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'IndexesRedisTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'InvestorSettingsSyncComponentTest.settings fails'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
