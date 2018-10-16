@@ -641,6 +641,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FundingShould.fund an investment product'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'FundingShould.fund an investment product'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'InvestorsApiShould'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
