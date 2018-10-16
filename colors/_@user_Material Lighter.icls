@@ -4,7 +4,7 @@
     <property name="created">2018-10-16T15:12:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-16T16:48:49</property>
+    <property name="modified">2018-10-16T17:22:43</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -88,7 +88,7 @@
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="91b859" />
+        <option name="FOREGROUND" value="92b959" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -509,7 +509,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="f6a434" />
+        <option name="FOREGROUND" value="8db455" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -609,7 +609,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="c17e70" />
+        <option name="FOREGROUND" value="8193d0" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -619,7 +619,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f76d47" />
+        <option name="FOREGROUND" value="f7a9b8" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -629,7 +629,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f76d47" />
+        <option name="FOREGROUND" value="a7b9f7" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -674,7 +674,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="91b859" />
+        <option name="FOREGROUND" value="f7a9b8" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -1385,7 +1385,7 @@
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="f76d47" />
+        <option name="FOREGROUND" value="4f9fff" />
       </value>
     </option>
     <option name="LABEL">
@@ -2988,7 +2988,7 @@
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f76d47" />
+        <option name="FOREGROUND" value="b9e25b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3330,7 +3330,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f76d47" />
+        <option name="FOREGROUND" value="34e25d" />
       </value>
     </option>
     <option name="TYPO">
