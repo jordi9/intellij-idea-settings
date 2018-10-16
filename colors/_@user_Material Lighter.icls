@@ -4,7 +4,7 @@
     <property name="created">2018-10-16T15:12:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-16T18:07:00</property>
+    <property name="modified">2018-10-16T21:40:04</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -703,27 +703,27 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="FOREGROUND" value="b09bff" />
-        <option name="BACKGROUND" value="7c4dff" />
+        <option name="FOREGROUND" value="ffdbb6" />
+        <option name="BACKGROUND" value="ffbcbe" />
         <option name="ERROR_STRIPE_COLOR" value="8f5247" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="FOREGROUND" value="f2adab" />
-        <option name="BACKGROUND" value="e53935" />
+        <option name="FOREGROUND" value="dfdcd7" />
+        <option name="BACKGROUND" value="dfdcd7" />
         <option name="ERROR_STRIPE_COLOR" value="656e76" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="91b859" />
+        <option name="BACKGROUND" value="eefbc9" />
         <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="ffb62c" />
+        <option name="BACKGROUND" value="e1edfd" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
