@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="notificationsColor" value="80cbc4" />
+    <option name="notificationsColor" value="63968f" />
     <option name="treeSelectionColor" value="546e7a" />
     <option name="highlightColor" value="d2d4d5" />
     <option name="secondBorderColor" value="d3e1e8" />
