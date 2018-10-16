@@ -614,7 +614,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in investors-fractionalization-acceptance-test_test'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FractionalizationApp'">
@@ -734,6 +734,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'topologyStatesIsNo...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Select Next Tab">
+        <Item>
+          <IdeaActionID>NextTab</IdeaActionID>
+          <ShortCut>'⇧⌘]' or '⌥⌘→'</ShortCut>
+          <Description>Select Next Tab</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1035,6 +1043,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'⌘[' or 'Button4 Click' or '⌃-'</ShortCut>
+          <Description>Back</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Coverage">
         <Item>
           <IdeaActionID>ActivateCoverageToolWindow</IdeaActionID>
