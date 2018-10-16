@@ -4,7 +4,7 @@
     <property name="created">2018-10-16T15:12:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-16T23:51:29</property>
+    <property name="modified">2018-10-17T00:00:07</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -116,11 +116,6 @@
       <value>
         <option name="FOREGROUND" value="7c4dff" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="Abstract class name">
-      <value>
-        <option name="FOREGROUND" value="f6a434" />
       </value>
     </option>
     <option name="Annotation">
@@ -480,11 +475,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="Class">
-      <value>
-        <option name="FOREGROUND" value="f6a434" />
-      </value>
-    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="7c4dff" />
@@ -750,11 +740,6 @@
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="91b859" />
-      </value>
-    </option>
-    <option name="Enum name">
-      <value>
-        <option name="FOREGROUND" value="f76d47" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1425,6 +1410,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="List/map to object conversion">
+      <value>
+        <option name="FOREGROUND" value="99c15a" />
+      </value>
+    </option>
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
@@ -2020,7 +2010,7 @@
     </option>
     <option name="Map key">
       <value>
-        <option name="FOREGROUND" value="91b859" />
+        <option name="FOREGROUND" value="99c15a" />
       </value>
     </option>
     <option name="Method call">
@@ -2038,11 +2028,6 @@
         <option name="FOREGROUND" value="c90f0c" />
         <option name="EFFECT_COLOR" value="c90f0c" />
         <option name="EFFECT_TYPE" value="4" />
-      </value>
-    </option>
-    <option name="Number">
-      <value>
-        <option name="FOREGROUND" value="f76d47" />
       </value>
     </option>
     <option name="OC.BADCHARACTER">
@@ -3265,26 +3250,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static field">
-      <value>
-        <option name="FOREGROUND" value="f76d47" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="Static method access">
       <value>
         <option name="FOREGROUND" value="6182b8" />
-      </value>
-    </option>
-    <option name="Static property reference ID">
-      <value>
-        <option name="FOREGROUND" value="f76d47" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="String">
-      <value>
-        <option name="FOREGROUND" value="91b859" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_TAG">
@@ -3373,11 +3341,6 @@
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="252b39" />
-      </value>
-    </option>
-    <option name="Valid string escape">
-      <value>
-        <option name="FOREGROUND" value="91b859" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
