@@ -345,6 +345,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'HikariHealthCheckShould.when there's a configuration error we have an easy way to solve it'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'HikariHealthCheckShould.when there's a configuration error we have an easy way to solve it'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'IndexesRedisTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
