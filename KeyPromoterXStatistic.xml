@@ -606,7 +606,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AddingGroupAndProductShould'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Features in: investors-api-acceptance-test'">
@@ -727,6 +727,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'com.zopa.investors.fractionalization''</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'add INVESTMENT and...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'add INVESTMENT and...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.zopa.investors.api.InvestorsApiApp'">
