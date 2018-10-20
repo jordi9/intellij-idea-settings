@@ -4,7 +4,7 @@
     <property name="created">2018-10-16T15:12:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-18T16:38:05</property>
+    <property name="modified">2018-10-20T20:58:05</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -210,7 +210,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e53935" />
+        <option name="BACKGROUND" value="f6c5ba" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -739,7 +739,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="91b859" />
+        <option name="BACKGROUND" value="e3f3a6" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
