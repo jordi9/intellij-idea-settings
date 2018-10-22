@@ -4,7 +4,7 @@
     <property name="created">2018-10-16T15:12:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-20T20:58:05</property>
+    <property name="modified">2018-10-22T15:48:29</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -3352,6 +3352,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="d9eaff" />
+        <option name="EFFECT_COLOR" value="ff0d00" />
         <option name="ERROR_STRIPE_COLOR" value="65737e" />
       </value>
     </option>
