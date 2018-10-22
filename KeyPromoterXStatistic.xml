@@ -793,6 +793,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RepaymentsShould.process a failed repayment event'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'RepaymentsShould.process a failed repayment event'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'com.zopa.investors.fractionalization''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
