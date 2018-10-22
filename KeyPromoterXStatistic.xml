@@ -89,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RepaymentsShould.process a paid repayment event'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'RepaymentsShould.process a paid repayment event'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'metrics()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -190,6 +198,14 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'⇧⌘F10'</ShortCut>
+          <Description>Jump to Console...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -553,6 +569,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RepaymentsShould.process a paid repayment event'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RepaymentsShould.process a paid repayment event'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'StatsApp'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -630,7 +654,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AbstractTopologyTestAcceptanceShould'">
@@ -1094,6 +1118,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'RedisTest.redis should flush commands automatically for single operations'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RepaymentsShould.process a paid repayment event'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'RepaymentsShould.process a paid repayment event'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
