@@ -238,7 +238,7 @@
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Open Console</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -278,6 +278,14 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⌘I'</ShortCut>
           <Description>Properties</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'⌥⌘L' or '⌃F'</ShortCut>
+          <Description>Reformat Code</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -791,6 +799,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'RepaymentsProducer'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RepaymentsShould'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'RepaymentsShould'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RepaymentsShould.process a failed repayment event'">
