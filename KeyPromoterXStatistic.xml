@@ -246,7 +246,7 @@
           <IdeaActionID>OptimizeImports</IdeaActionID>
           <ShortCut>'⌃⌥O' or '⌃O'</ShortCut>
           <Description>Optimize Imports</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
