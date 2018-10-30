@@ -49,6 +49,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'AbstractTopologyTestAcceptanceShould'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'AbstractTopologyTestAcceptanceShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'All in investors-fractionalization-acceptance-test_test'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
