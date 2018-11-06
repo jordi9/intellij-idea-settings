@@ -921,6 +921,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'com.zopa.investors.testlib.domain''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.zopa.investors.testlib.domain''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'add INVESTMENT and...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
