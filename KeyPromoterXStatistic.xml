@@ -729,6 +729,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '[engine:junit-vintage]/[runner:com.zopa.investors.api.streams.topology.LoanServicingTopologyTest]/[test:filter loan servicing events and split them to two topics(com.zopa.investors.api.streams.topology.LoanServicingTopologyTest)]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun '[engine:junit-vintage]/[runner:com.zopa.investors.api.streams.topology.LoanServicingTopologyTest]/[test:filter loan servicing events and split them to two topics(com.zopa.investors.api.streams.topology.LoanServicingTopologyTest)]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.zopa.investors.api.InvestorsApiApp'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -913,6 +921,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'LoanServicingTopologyTest)]'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'LoanServicingTopologyTest)]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MatchingShould'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -961,6 +977,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'com.zopa.investors.api.streams.topology''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.zopa.investors.api.streams.topology''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'com.zopa.investors.fractionalization''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -991,6 +1015,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'com.zopa.investors.api.InvestorsApiApp'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.zopa.investors.api.streams.topology in investors-api-streams_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'com.zopa.investors.api.streams.topology in investors-api-streams_test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.zopa.investors.fractionalization.TestClientKt'">
