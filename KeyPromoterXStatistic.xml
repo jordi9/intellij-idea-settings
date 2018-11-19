@@ -905,6 +905,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'LibraryVersioningPluginTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'LibraryVersioningPluginTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'LoanServicingRepaymentsTopologyTest [*]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1078,6 +1086,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'topologyStatesIsNo...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'versionIsSetFromTa...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'versionIsSetFromTa...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
