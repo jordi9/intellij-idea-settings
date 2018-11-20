@@ -1081,6 +1081,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'subProjectVersionI...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'subProjectVersionI...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'topologyStatesIsNo...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1294,6 +1302,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'JmxExporterMetricsTest.kafka configuration includes rules'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LibraryVersioningPluginTest.versionWritesToFileForJavaProjects'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'LibraryVersioningPluginTest.versionWritesToFileForJavaProjects'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
