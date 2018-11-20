@@ -1313,6 +1313,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'LoanServicingLoanFormedTopologyTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'LoanServicingLoanFormedTopologyTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'LoanServicingRepaymentsTopologyTest [*]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
