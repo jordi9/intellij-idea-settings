@@ -569,6 +569,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LoanServicingLoanFormedTopologyTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LoanServicingLoanFormedTopologyTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LoanServicingRepaymentsTopologyTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1318,7 +1326,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'LoanServicingLoanFormedTopologyTest'</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LoanServicingRepaymentsTopologyTest [*]'">
