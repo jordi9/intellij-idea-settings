@@ -577,6 +577,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LoanServicingLoanFormedTopologyTest (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LoanServicingLoanFormedTopologyTest (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LoanServicingLoanFormedTopologyTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1327,6 +1335,14 @@
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'LibraryVersioningPluginTest.versionWritesToFileForJavaProjects'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LoanServicingLoanFormedTopologyTest (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'LoanServicingLoanFormedTopologyTest (1)'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LoanServicingLoanFormedTopologyTest'">
