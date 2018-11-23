@@ -790,7 +790,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.zopa.investors.fractionalization.TestClientKt'">
@@ -1063,6 +1063,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'com.zopa.investors.api.InvestorsApiApp'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.zopa.investors.api.streams.topology in investors-api-streams_test'">
