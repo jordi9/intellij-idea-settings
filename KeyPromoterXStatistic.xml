@@ -790,7 +790,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'</Description>
-          <Count>4</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.zopa.investors.fractionalization.TestClientKt'">
@@ -1502,7 +1502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'</Description>
-          <Count>6</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.zopa.investors.stats.pipeline.PipelineApp'">
