@@ -358,7 +358,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⌘I'</ShortCut>
           <Description>Properties</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -825,14 +825,6 @@
           <Count>24</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Revert...">
-        <Item>
-          <IdeaActionID>ChangesView.Revert</IdeaActionID>
-          <ShortCut>'⌥⌘Z'</ShortCut>
-          <Description>Revert...</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
@@ -1062,7 +1054,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'com.zopa.investors.api.InvestorsApiApp'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'">
@@ -1623,6 +1615,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FractionalizationApp'</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
