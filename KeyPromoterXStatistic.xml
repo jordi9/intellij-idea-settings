@@ -537,6 +537,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'HttpClientModuleTest.ciphers are configured in http clients'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'HttpClientModuleTest.ciphers are configured in http clients'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'IndexesRedisTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
