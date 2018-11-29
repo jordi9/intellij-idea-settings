@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ratpack-modules'" />
-    <option name="defaultScopeName" value="Project 'ratpack-modules'" />
-    <option name="SEARCH_SCOPE" value="Project 'ratpack-modules'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.kt,*.java,*.groovy, *.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
