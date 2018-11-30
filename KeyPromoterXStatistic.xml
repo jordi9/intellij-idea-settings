@@ -1465,6 +1465,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OkHttpClientLearningTest.understand how retries work for connect timeout'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OkHttpClientLearningTest.understand how retries work for connect timeout'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OrcoTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
