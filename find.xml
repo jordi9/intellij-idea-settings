@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'investors'" />
-    <option name="defaultScopeName" value="Project 'investors'" />
-    <option name="SEARCH_SCOPE" value="Project 'investors'" />
-    <option name="FILE_MASK" value="*.kt,*.java,*.groovy, *.gradle" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +18,8 @@
     <mask>*.kt,*.java</mask>
     <mask>*.sql</mask>
     <mask>*.kt,*.java,*.groovy</mask>
-    <mask>*.gradle</mask>
     <mask>*.yaml</mask>
     <mask>*.kt,*.java,*.groovy, *.gradle</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
