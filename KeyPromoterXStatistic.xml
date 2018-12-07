@@ -457,6 +457,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'All in investors-api-streams-acceptance-test_test [*]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'All in investors-api-streams-acceptance-test_test [*]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'All in investors-fractionalization-acceptance-test_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -977,6 +985,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'All in investors-api-streams-acceptance-test_test [*]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in investors-api-streams-acceptance-test_test [*]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'All in investors-api-streams-acceptance-test_test'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1415,6 +1431,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in investors-api-acceptance-test_test'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All in investors-api-streams-acceptance-test_test [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'All in investors-api-streams-acceptance-test_test [*]'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in investors-fractionalization-acceptance-test_test'">
