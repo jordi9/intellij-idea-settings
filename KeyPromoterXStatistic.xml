@@ -689,6 +689,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MatchingShould.produce a loan creation failed event if it cannot read the loan details from rialto [*]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MatchingShould.produce a loan creation failed event if it cannot read the loan details from rialto [*]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MatchingSortingTest.calculate rate ratio'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1111,6 +1119,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'MatchingShould'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MatchingShould.produce a loan creation …ot read the loan details from rialto [*]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MatchingShould.produce a loan creation …ot read the loan details from rialto [*]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OkHttpClientTest [*]'">
@@ -1617,6 +1633,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MatchingShould.produce a loan creation failed event if it cannot read the loan details from rialto [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'MatchingShould.produce a loan creation failed event if it cannot read the loan details from rialto [*]'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OkHttpClientLearningTest.understand how default retries work for read timeout'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1646,7 +1670,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'OkHttpClientTest [*]'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OkHttpClientTest.interceptor exhausts all retry opportunities and returns default empty response for read timeouts'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OkHttpClientTest.interceptor exhausts all retry opportunities and returns default empty response for read timeouts'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OkHttpClientTest.interceptor works at third attempt [*]'">
