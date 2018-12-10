@@ -1025,6 +1025,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CompletableFutureLearningTest.unhandled…in a completable future is swallowed [*]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CompletableFutureLearningTest.unhandled…in a completable future is swallowed [*]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FractionalizationApp'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
