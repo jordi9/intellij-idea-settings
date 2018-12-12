@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
@@ -374,7 +374,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>144</Count>
+          <Count>145</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -894,7 +894,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.zopa.investors.api.InvestorsApiApp'</Description>
-          <Count>61</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.zopa.investors.api.streams in investors-api-streams-acceptance-test_test'">
