@@ -1505,6 +1505,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CompletableFutureLearningTest.Cancel tasks after any exception [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'CompletableFutureLearningTest.Cancel tasks after any exception [*]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FractionalizationApp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1814,7 +1822,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.zopa.investors.api.InvestorsApiApp'</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'">
