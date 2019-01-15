@@ -1617,6 +1617,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'LoanSalesShould.show be able to start quoting when there's no sale in progress'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'LoanSalesShould.show be able to start quoting when there's no sale in progress'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'LoanServicingLoanFormedTopologyTest (1)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
