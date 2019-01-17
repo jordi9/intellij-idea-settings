@@ -1145,6 +1145,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MatchingShould.match a loan to an investor'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MatchingShould.match a loan to an investor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MatchingShould.produce a loan creation …ot read the loan details from rialto [*]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
