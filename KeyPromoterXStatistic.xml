@@ -1833,6 +1833,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OrchestratorShould.connect to kafka through toxiproxy'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrchestratorShould.connect to kafka through toxiproxy'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OrcoTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
