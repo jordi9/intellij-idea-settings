@@ -801,6 +801,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OrchestratorShould.connect to redis through toxiproxy'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorShould.connect to redis through toxiproxy'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OrcoTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
