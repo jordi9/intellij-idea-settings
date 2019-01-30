@@ -806,7 +806,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OrchestratorShould.connect to redis through toxiproxy'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OrcoTest'">
@@ -1286,7 +1286,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'com.zopa.investors.fractionalization''</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.zopa.investors.fractionalization.kafka''">
@@ -1926,7 +1926,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'com.zopa.investors.fractionalization in investors-fractionalization-acceptance-test_test'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.zopa.investors.simo.SimoApp'">
