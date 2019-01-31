@@ -809,6 +809,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OrchestratorShould.queue many task from the worklog and process it later with hiccups in kafka'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorShould.queue many task from the worklog and process it later with hiccups in kafka'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OrcoTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1839,6 +1847,14 @@
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'OrchestratorShould.connect to kafka through toxiproxy'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrchestratorShould.queue many task from the worklog and process it later with hiccups in kafka'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrchestratorShould.queue many task from the worklog and process it later with hiccups in kafka'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OrcoTest'">
