@@ -814,7 +814,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OrchestratorShould.queue many task from the worklog and process it later with hiccups in kafka'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OrcoTest'">
@@ -998,7 +998,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1854,7 +1854,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'OrchestratorShould.queue many task from the worklog and process it later with hiccups in kafka'</Description>
-          <Count>6</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OrcoTest'">
