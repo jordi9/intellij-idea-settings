@@ -25,6 +25,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌘K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
         <Item>
           <IdeaActionID>ConvertJavaToKotlin</IdeaActionID>
