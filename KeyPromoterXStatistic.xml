@@ -1393,6 +1393,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'com.zopa.investors.fractionalization in…s-fractionalization-acceptance-test_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'com.zopa.investors.fractionalization in…s-fractionalization-acceptance-test_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'com.zopa.investors.fractionalization.TestClientKt'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1814,7 +1822,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MatchingShould'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MatchingShould.produce a loan creation failed event if it cannot read the loan details from rialto [*]'">
