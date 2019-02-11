@@ -7,6 +7,7 @@
     <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
     <EXCLUDED_PACKAGE NAME="javax.swing" />
     <EXCLUDED_PACKAGE NAME="javax.xml.ws.handler.Handler" />
+    <EXCLUDED_PACKAGE NAME="org.rocksdb.Checkpoint" />
     <EXCLUDED_PACKAGE NAME="sun.net.www.protocol" />
     <EXCLUDED_PACKAGE NAME="sun.plugin.net.protocol.jar.Handler" />
   </component>
