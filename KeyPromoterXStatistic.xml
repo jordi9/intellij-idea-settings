@@ -1657,6 +1657,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'All in investors-fractionalization_test (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'All in investors-fractionalization_test (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CompletableFutureLearningTest.Cancel tasks after any exception [*]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
