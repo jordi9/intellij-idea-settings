@@ -849,6 +849,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OrchestratorShould.send duplicate completed events after state in redis is mutated'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorShould.send duplicate completed events after state in redis is mutated'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OrchestratorShould.state is mutated and redis just dies'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
