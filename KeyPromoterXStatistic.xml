@@ -1881,6 +1881,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MatchingShould.matching same loan should do nothing'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'MatchingShould.matching same loan should do nothing'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MatchingShould.produce a loan creation failed event if it cannot read the loan details from rialto [*]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
