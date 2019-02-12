@@ -854,7 +854,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OrchestratorShould.send duplicate completed events after state in redis is mutated'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OrchestratorShould.state is mutated and redis just dies'">
@@ -1983,6 +1983,14 @@
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'OrchestratorShould.see what happens when we mutate state but the topology can't commit'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrchestratorShould.send duplicate completed events after state in redis is mutated'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrchestratorShould.send duplicate completed events after state in redis is mutated'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OrchestratorShould.state is mutated and redis just dies'">
