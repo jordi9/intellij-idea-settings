@@ -1153,6 +1153,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FractionalizationSho...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FractionalizationSho...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FractionalizationShould'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1319,6 +1327,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'RepaymentsProducer'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RepaymentsShould and...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RepaymentsShould and...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RepaymentsShould'">
