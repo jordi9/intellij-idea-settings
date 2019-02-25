@@ -2041,6 +2041,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OperationStateRepositoryTest [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OperationStateRepositoryTest [*]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OrchestratorShould'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
