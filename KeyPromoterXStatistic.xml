@@ -1022,7 +1022,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.zopa.investors.api.InvestorsApiApp'</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.zopa.investors.api.streams in investors-api-streams-acceptance-test_test'">
@@ -1806,7 +1806,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FractionalizationApp'</Description>
-          <Count>29</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FractionalizationScenarioSpec'">
@@ -2278,7 +2278,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Symbol...">
