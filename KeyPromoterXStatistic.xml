@@ -2017,6 +2017,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'NetAnnualisedReturnTopologyTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'NetAnnualisedReturnTopologyTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OkHttpClientLearningTest.understand how default retries work for read timeout'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
