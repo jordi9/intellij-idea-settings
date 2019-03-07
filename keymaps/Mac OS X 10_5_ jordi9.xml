@@ -55,6 +55,7 @@
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="ExportToTextFile" />
+  <action id="FileChooser.NewFolder" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -97,6 +98,9 @@
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
