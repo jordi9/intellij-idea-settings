@@ -1241,6 +1241,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'IsaWithProductAddedOperationProcessorTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'IsaWithProductAddedOperationProcessorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JdbisModule provid...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
