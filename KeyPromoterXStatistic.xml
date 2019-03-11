@@ -809,6 +809,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'NetAnnualisedReturnUseCaseTest.use case returns correct values'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'NetAnnualisedReturnUseCaseTest.use case returns correct values'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OkHttpClientLearningTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
