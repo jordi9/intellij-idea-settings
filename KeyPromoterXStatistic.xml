@@ -17,6 +17,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Call Hierarchy">
+        <Item>
+          <IdeaActionID>CallHierarchy</IdeaActionID>
+          <ShortCut>'⌃⌥H'</ShortCut>
+          <Description>Call Hierarchy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Clone Row">
         <Item>
           <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
