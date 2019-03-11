@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="customScope" value="Changed Files" />
+    <option name="defaultScopeName" value="Changed Files" />
+    <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.groovy" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +21,7 @@
     <mask>config.yaml</mask>
     <mask>*.kt,*.java,*.groovy, *.gradle</mask>
     <mask>*.java</mask>
-    <mask>*.groovy</mask>
     <mask>*.kt</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
