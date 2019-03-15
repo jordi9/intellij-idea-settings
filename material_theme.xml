@@ -4,11 +4,12 @@
     <option name="isCompactMenus" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
     <option name="themedScrollbars" value="false" />
     <option name="upperCaseButtons" value="false" />
     <option name="highlightThickness" value="4" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="28" />
     <option name="accentColor" value="70b2a8" />
     <option name="selectedTheme" value="LIGHT_CUSTOM" />
