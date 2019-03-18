@@ -7,6 +7,7 @@
     <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
     <EXCLUDED_PACKAGE NAME="javax.swing" />
     <EXCLUDED_PACKAGE NAME="javax.xml.ws.handler.Handler" />
+    <EXCLUDED_PACKAGE NAME="org.apache.kafka.common.metrics.stats.Rate" />
     <EXCLUDED_PACKAGE NAME="org.rocksdb.Checkpoint" />
     <EXCLUDED_PACKAGE NAME="scala" />
     <EXCLUDED_PACKAGE NAME="scala.collection" />
