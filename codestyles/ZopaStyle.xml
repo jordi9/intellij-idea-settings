@@ -10,8 +10,6 @@
   <option name="RIGHT_MARGIN" value="100" />
   <GroovyCodeStyleSettings>
     <option name="USE_FLYING_GEESE_BRACES" value="true" />
-    <option name="ALIGN_MULTILINE_LIST_OR_MAP" value="false" />
-    <option name="ALIGN_NAMED_ARGS_IN_MAP" value="false" />
     <option name="USE_FQ_CLASS_NAMES_IN_JAVADOC" value="false" />
     <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
