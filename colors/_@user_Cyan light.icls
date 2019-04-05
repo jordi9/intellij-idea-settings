@@ -3,13 +3,12 @@
     <property name="created">2019-03-29T15:05:12</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-02T22:50:22</property>
+    <property name="modified">2019-04-05T15:38:51</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="f2f3f5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f3f3f3" />
-    <option name="FILESTATUS_ADDED" value="91b859" />
     <option name="FILESTATUS_DELETED" value="808080" />
     <option name="FILESTATUS_HIJACKED" value="ffb62c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
@@ -19,14 +18,13 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="7c4dff" />
-    <option name="FILESTATUS_MODIFIED" value="39adb5" />
+    <option name="FILESTATUS_MODIFIED" value="b50a87" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="39adb5" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="39adb5" />
     <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_SUPPRESSED" value="b0bec5" />
     <option name="FILESTATUS_SWITCHED" value="7c4dff" />
     <option name="FILESTATUS_UNKNOWN" value="bf8832" />
-    <option name="FILESTATUS_addedOutside" value="91b859" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6182b8" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="a7d1c2" />
