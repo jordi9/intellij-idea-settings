@@ -4,6 +4,10 @@
       <blacklist language="Java">
         <added pattern="com.zopa.investors.fractionalization.component.orchestrator.OrchestratorRequest.OrchestratorRequest(request,createMovementsFunction,updateRedisFunction)" />
       </blacklist>
+      <blacklist language="Groovy">
+        <added pattern="com.zopa.investors.learning.Command.key(key)" />
+        <added pattern="com.zopa.investors.learning.Command.value(value)" />
+      </blacklist>
     </blacklists>
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
