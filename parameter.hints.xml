@@ -7,6 +7,7 @@
       <blacklist language="Groovy">
         <added pattern="com.zopa.investors.learning.Command.key(key)" />
         <added pattern="com.zopa.investors.learning.Command.value(value)" />
+        <added pattern="com.zopa.investors.learning.ExecutionModelAndScalingTest.command(keyValue)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
