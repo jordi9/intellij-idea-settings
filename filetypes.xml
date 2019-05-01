@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="streams" type="PLAIN_TEXT" />
-      <mapping ext="graphqls" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
