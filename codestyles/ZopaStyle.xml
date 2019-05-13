@@ -62,8 +62,8 @@
   </PostgresCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="QUERY_EL_COMMA" value="2" />
-    <option name="INSERT_VALUES_EL_LINE" value="1" />
-    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
     <option name="INSERT_EL_COMMA" value="0" />
     <option name="TABLE_ALTER_INSTRUCTION_WRAP" value="0" />
   </SqlCodeStyleSettings>
