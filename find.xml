@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Module 'investors.investors-stats-pipeline-acceptance-test.test'" />
-    <option name="defaultScopeName" value="Module 'investors.investors-stats-pipeline-acceptance-test.test'" />
+    <option name="customScope" value="Module 'investors.investors-stats-pipeline.test'" />
+    <option name="defaultScopeName" value="Module 'investors.investors-stats-pipeline.test'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'investors.investors-stats-pipeline-acceptance-test.test'" />
+    <option name="SEARCH_SCOPE" value="Module 'investors.investors-stats-pipeline.test'" />
     <option name="FILE_MASK" value="*.kt,*.java,*.groovy, *.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
