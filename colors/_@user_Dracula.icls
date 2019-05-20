@@ -4,7 +4,7 @@
     <property name="created">2019-02-18T09:28:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-02-21T19:44:29</property>
+    <property name="modified">2019-05-20T23:52:28</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -381,12 +381,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="50fa78" />
+        <option name="FOREGROUND" value="61fab6" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="50fa7b" />
+        <option name="FOREGROUND" value="61fab6" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -470,7 +470,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="50fa78" />
+        <option name="FOREGROUND" value="61fab6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
