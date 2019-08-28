@@ -7,8 +7,11 @@
     <EXCLUDED_PACKAGE NAME="com.google.inject.Inject" />
     <EXCLUDED_PACKAGE NAME="com.google.inject.Singleton" />
     <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
+    <EXCLUDED_PACKAGE NAME="javafx.animation" />
     <EXCLUDED_PACKAGE NAME="javax.swing" />
+    <EXCLUDED_PACKAGE NAME="javax.xml.crypto.dsig.keyinfo" />
     <EXCLUDED_PACKAGE NAME="javax.xml.ws.handler.Handler" />
     <EXCLUDED_PACKAGE NAME="org.apache.kafka.common.metrics.stats.Rate" />
     <EXCLUDED_PACKAGE NAME="org.rocksdb.Checkpoint" />
