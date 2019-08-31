@@ -6,7 +6,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'⌃⏎' or '⌃N'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -14,7 +14,47 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Call Hierarchy">
+        <Item>
+          <IdeaActionID>CallHierarchy</IdeaActionID>
+          <ShortCut>'⌃⌥H'</ShortCut>
+          <Description>Call Hierarchy</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Clone Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Clone Row</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Column Selection Mode">
+        <Item>
+          <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
+          <ShortCut>'⇧⌘8'</ShortCut>
+          <Description>Column Selection Mode</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌘K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Context Info">
+        <Item>
+          <IdeaActionID>EditorContextInfo</IdeaActionID>
+          <ShortCut>'⌃⇧Q'</ShortCut>
+          <Description>Context Info</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Convert Java File to Kotlin File">
@@ -22,7 +62,15 @@
           <IdeaActionID>ConvertJavaToKotlin</IdeaActionID>
           <ShortCut>'⌥⇧⌘K'</ShortCut>
           <Description>Convert Java File to Kotlin File</Description>
-          <Count>2</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'⌘C'</ShortCut>
+          <Description>Copy</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -30,7 +78,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>2</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -38,7 +86,23 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>4</Count>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌥⇧⌘C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Database">
+        <Item>
+          <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
+          <ShortCut>'⌘8'</ShortCut>
+          <Description>Database</Description>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -47,6 +111,22 @@
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AbstractTopologyTestAcceptanceShould'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'AbstractTopologyTestAcceptanceShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'All in investors-fractionalization-acceptance-test_test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'All in investors-fractionalization-acceptance-test_test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'FractionalizationApp'">
@@ -65,11 +145,35 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FundingShould'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'FundingShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'HttpClientModuleTest.ciphers are configured in http clients'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'HttpClientModuleTest.ciphers are configured in http clients'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'JmxExporter only r...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'JmxExporter only r...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MatchingShould'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'MatchingShould'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -97,11 +201,51 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'apply one investor...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'apply one investor...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'com.zopa.investors.api.InvestorsApiApp'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'com.zopa.investors.api.InvestorsApiApp'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'metrics()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'metrics()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'missing investor l...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'missing investor l...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'post()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'post()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -113,12 +257,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Delete Rows">
+      <Statistic Action="Delete Row">
         <Item>
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘⌫'</ShortCut>
-          <Description>Delete Rows</Description>
-          <Count>1</Count>
+          <Description>Delete Row</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -126,7 +270,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -142,6 +286,22 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Drop</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Duplicate">
+        <Item>
+          <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Duplicate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit Source">
+        <Item>
+          <IdeaActionID>Vcs.EditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Edit Source</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -150,7 +310,23 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>7</Count>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expression Type">
+        <Item>
+          <IdeaActionID>ExpressionTypeInfo</IdeaActionID>
+          <ShortCut>'⌃⇧P'</ShortCut>
+          <Description>Expression Type</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -166,7 +342,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -174,7 +350,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7' or '⌃⌥U'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>3</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -182,7 +358,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>5</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -190,7 +366,7 @@
           <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
           <ShortCut>'⌘8'</ShortCut>
           <Description>Hierarchy</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -198,7 +374,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -214,7 +390,7 @@
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Jump to Editor</Description>
-          <Count>2</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -222,7 +398,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
@@ -230,7 +406,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -238,7 +414,7 @@
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Open Console</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -246,7 +422,7 @@
           <IdeaActionID>OptimizeImports</IdeaActionID>
           <ShortCut>'⌃⌥O' or '⌃O'</ShortCut>
           <Description>Optimize Imports</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
@@ -254,7 +430,7 @@
           <IdeaActionID>EditorPasteSimple</IdeaActionID>
           <ShortCut>'⌥⇧⌘V'</ShortCut>
           <Description>Paste Simple</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -270,7 +446,15 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>140</Count>
+          <Count>148</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'⌘;'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -278,6 +462,14 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⌘I'</ShortCut>
           <Description>Properties</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'⌥⌘L' or '⌃F'</ShortCut>
+          <Description>Reformat Code</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -286,6 +478,14 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun">
+        <Item>
+          <IdeaActionID>UsageView.Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -297,6 +497,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AcceptanceAppTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AcceptanceAppTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AddingGroupAndProductShould'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -305,11 +513,27 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AddingGroupAndProductShould.add INVESTMENT and product for an investor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AddingGroupAndProductShould.add INVESTMENT and product for an investor'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'All in investors-api-acceptance-test_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in investors-api-acceptance-test_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'All in investors-api-streams-acceptance-test_test [*]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'All in investors-api-streams-acceptance-test_test [*]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -337,12 +561,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FractionalizationScenarioSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FractionalizationScenarioSpec'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FractionalizationShould'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FractionalizationShould'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FractionalizationShould.fail because of already processed request'">
@@ -366,7 +598,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FundingShould'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FundingShould.fund an investment product'">
@@ -393,11 +625,35 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'HttpClientModuleTest.ciphers are configured in http clients'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'HttpClientModuleTest.ciphers are configured in http clients'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'IndexesRedisTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'IndexesRedisTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'InvestmentWithProductAddedOperationProcessorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'InvestmentWithProductAddedOperationProcessorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'InvestmentWithProductAddedOperationProcessorTest.Add investment and product'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'InvestmentWithProductAddedOperationProcessorTest.Add investment and product'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -441,6 +697,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'InvestorsApiStreamsShould'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'InvestorsApiStreamsShould'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'JdbisShould'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -465,11 +729,43 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LoanSaleQuoteShould'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LoanSaleQuoteShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LoanServicingLoanFormedTopologyTest (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LoanServicingLoanFormedTopologyTest (1)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LoanServicingLoanFormedTopologyTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LoanServicingLoanFormedTopologyTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LoanServicingRepaymentsTopologyTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'LoanServicingRepaymentsTopologyTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MatchingRepositoryTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MatchingRepositoryTest'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -486,6 +782,22 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'MatchingShould.match a loan to an investor'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MatchingShould.produce a loan creation failed event if it cannot read the loan details from rialto [*]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MatchingShould.produce a loan creation failed event if it cannot read the loan details from rialto [*]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MatchingSortingTest.calculate rate ratio'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MatchingSortingTest.calculate rate ratio'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -494,7 +806,151 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'MigrationShould'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MigrationShould.migrate an investor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MigrationShould.migrate an investor'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'NetAnnualisedReturnUseCaseTest.use case returns correct values'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'NetAnnualisedReturnUseCaseTest.use case returns correct values'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OkHttpClientLearningTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OkHttpClientLearningTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OkHttpClientLearningTest.understand how retries work for connect timeout'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OkHttpClientLearningTest.understand how retries work for connect timeout'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OkHttpClientLearningTest.understand how retries work for read timeout with an interceptor [100]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OkHttpClientLearningTest.understand how retries work for read timeout with an interceptor [100]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OkHttpClientTest [*]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OkHttpClientTest [*]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OkHttpClientTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OkHttpClientTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OkHttpClientTest.interceptor works at third attempt [*]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OkHttpClientTest.interceptor works at third attempt [*]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OnBoardingShould'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OnBoardingShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationStateRepositoryTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationStateRepositoryTest'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrchestratorScenarioSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorScenarioSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrchestratorShould'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorShould'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrchestratorShould.connect to redis through toxiproxy'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorShould.connect to redis through toxiproxy'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrchestratorShould.queue many task from the worklog and process it later with hiccups in kafka'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorShould.queue many task from the worklog and process it later with hiccups in kafka'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrchestratorShould.see what happens when we mutate state but the topology can't commit'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorShould.see what happens when we mutate state but the topology can't commit'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrchestratorShould.send duplicate completed events after state in redis is mutated'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorShould.send duplicate completed events after state in redis is mutated'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrchestratorShould.state is mutated and redis just dies'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorShould.state is mutated and redis just dies'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrchestratorShould.topologies will die because of redis timeout'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrchestratorShould.topologies will die because of redis timeout'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OrcoTest'">
@@ -601,12 +1057,36 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'UuidTest.compare different classes'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UuidTest.compare different classes'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '[engine:junit-vintage]/[runner:com.zopa.investors.api.streams.topology.LoanServicingTopologyTest]/[test:filter loan servicing events and split them to two topics(com.zopa.investors.api.streams.topology.LoanServicingTopologyTest)]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun '[engine:junit-vintage]/[runner:com.zopa.investors.api.streams.topology.LoanServicingTopologyTest]/[test:filter loan servicing events and split them to two topics(com.zopa.investors.api.streams.topology.LoanServicingTopologyTest)]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.zopa.investors.api.InvestorsApiApp'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.zopa.investors.api.InvestorsApiApp'</Description>
-          <Count>33</Count>
+          <Count>73</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'com.zopa.investors.api.streams in investors-api-streams-acceptance-test_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.zopa.investors.api.streams in investors-api-streams-acceptance-test_test'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'">
@@ -614,7 +1094,23 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'</Description>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'com.zopa.investors.fractionalization.TestClientKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.zopa.investors.fractionalization.TestClientKt'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'com.zopa.investors.simo.SimoApp'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.zopa.investors.simo.SimoApp'</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.zopa.investors.stats.pipeline.PipelineApp'">
@@ -630,7 +1126,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -638,15 +1134,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>21</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Revert...">
-        <Item>
-          <IdeaActionID>ChangesView.Revert</IdeaActionID>
-          <ShortCut>'⌥⌘Z'</ShortCut>
-          <Description>Revert...</Description>
-          <Count>1</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -654,7 +1142,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AbstractTopologyTestAcceptanceShould'">
@@ -670,7 +1158,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'AddingGroupAndProductShould'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Features in: investors-api-acceptance-test'">
@@ -686,7 +1174,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>6</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in investors-api-acceptance-test_test'">
@@ -694,6 +1182,22 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in investors-api-acceptance-test_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in investors-api-streams-acceptance-test_test [*]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in investors-api-streams-acceptance-test_test [*]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in investors-api-streams-acceptance-test_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in investors-api-streams-acceptance-test_test'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -710,7 +1214,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in investors-fractionalization-acceptance-test_test'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CompletableFutureLearningTest.unhandled…in a completable future is swallowed [*]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CompletableFutureLearningTest.unhandled…in a completable future is swallowed [*]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FractionalizationApp'">
@@ -718,7 +1230,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'FractionalizationApp'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FractionalizationSho...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FractionalizationSho...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FractionalizationShould'">
@@ -726,7 +1246,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'FractionalizationShould'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FundingShould'">
@@ -734,7 +1254,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'FundingShould'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FundingShould.fund an investment product'">
@@ -745,11 +1265,35 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'IdentityServiceTokenProviderTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'IdentityServiceTokenProviderTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InvestmentWithProductAddedOperationProcessorTest.Add investment and product'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'InvestmentWithProductAddedOperationProcessorTest.Add investment and product'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'InvestorsApiShould'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'InvestorsApiShould'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'IsaWithProductAddedOperationProcessorTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'IsaWithProductAddedOperationProcessorTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -761,6 +1305,30 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'LibraryVersioningPluginTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'LibraryVersioningPluginTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LoanSaleQuoteShould'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'LoanSaleQuoteShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LoanServicingRepaymentsTopologyTest [*]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'LoanServicingRepaymentsTopologyTest [*]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'LoanServicingRepaymentsTopologyTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -769,12 +1337,92 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'LoanServicingTopologyTest)]'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'LoanServicingTopologyTest)]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MatchingShould'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'MatchingShould'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MatchingShould.match a loan to an investor'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MatchingShould.match a loan to an investor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MatchingShould.produce a loan creation …ot read the loan details from rialto [*]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MatchingShould.produce a loan creation …ot read the loan details from rialto [*]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MigrationShould and ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'MigrationShould and ...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MigrationShould'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MigrationShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MigrationShould.migrate an investor'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MigrationShould.migrate an investor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OkHttpClientTest [*]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OkHttpClientTest [*]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OkHttpClientTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OkHttpClientTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OperationStateRepositoryTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OperationStateRepositoryTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OrchestratorShould'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OrchestratorShould'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RedisTest'">
@@ -793,6 +1441,22 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RepaymentsShould and...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RepaymentsShould and...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RepaymentsShould'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'RepaymentsShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'RepaymentsShould.process a failed repayment event'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -801,12 +1465,60 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RepaymentsTopologyTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'RepaymentsTopologyTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.zopa.investors.api.streams''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.zopa.investors.api.streams''</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.zopa.investors.api.streams.topology''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.zopa.investors.api.streams.topology''</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'com.zopa.investors.fractionalization''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'com.zopa.investors.fractionalization''</Description>
-          <Count>2</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.zopa.investors.fractionalization.kafka''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.zopa.investors.fractionalization.kafka''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.zopa.investors.stats.pipeline''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.zopa.investors.stats.pipeline''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.zopa.investors.testlib.domain''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.zopa.investors.testlib.domain''</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'add INVESTMENT and...()'">
@@ -814,7 +1526,23 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'add INVESTMENT and...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'be able to start q...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'be able to start q...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.zopa.investors...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'com.zopa.investors...'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.zopa.investors.api.InvestorsApiApp'">
@@ -822,7 +1550,63 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'com.zopa.investors.api.InvestorsApiApp'</Description>
-          <Count>5</Count>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.zopa.investors.api.streams.topology in investors-api-streams_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'com.zopa.investors.api.streams.topology in investors-api-streams_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.zopa.investors.fractionalization in…s-fractionalization-acceptance-test_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'com.zopa.investors.fractionalization in…s-fractionalization-acceptance-test_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.zopa.investors.fractionalization.TestClientKt'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'com.zopa.investors.fractionalization.TestClientKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.zopa.investors.simo.SimoApp'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'com.zopa.investors.simo.SimoApp'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'create a cross gro...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'create a cross gro...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'create a product f...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'create a product f...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'expose probes so w...()'">
@@ -849,11 +1633,131 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'handled exception ...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'handled exception ...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'interceptor works ...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'interceptor works ...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'match a loan to an...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'match a loan to an...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'match a loan to an...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'match a loan to an...()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'migrate an investor'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'migrate an investor'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'migrate an investor()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'migrate an investor()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'missing investor l...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'missing investor l...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'not be able to sta...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'not be able to sta...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'process a matching...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'process a matching...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'produce a quote fo...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'produce a quote fo...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'read an investor c...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'read an investor c...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'read an investor i...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'read an investor i...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'see what happens w...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'see what happens w...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'send duplicate com...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'send duplicate com...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'subProjectVersionI...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'subProjectVersionI...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'topologies will di...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'topologies will di...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -862,6 +1766,22 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'topologyStatesIsNo...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'understand how ret...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'understand how ret...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'versionIsSetFromTa...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'versionIsSetFromTa...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -894,7 +1814,7 @@
           <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
           <ShortCut>'⌃⌘A'</ShortCut>
           <Description>Show All Affected Files</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -902,7 +1822,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show History">
@@ -910,7 +1830,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'⇧⌘H'</ShortCut>
           <Description>Show History</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -961,12 +1881,36 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'All in investors-api-streams-acceptance-test_test [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'All in investors-api-streams-acceptance-test_test [*]'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'All in investors-fractionalization-acceptance-test_test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'All in investors-fractionalization-acceptance-test_test'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All in investors-fractionalization_test (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'All in investors-fractionalization_test (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CompletableFutureLearningTest.Cancel tasks after any exception [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'CompletableFutureLearningTest.Cancel tasks after any exception [*]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FractionalizationApp'">
@@ -974,7 +1918,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FractionalizationApp'</Description>
-          <Count>21</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FractionalizationScenarioSpec'">
@@ -982,7 +1926,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'FractionalizationScenarioSpec'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FractionalizationShould'">
@@ -990,7 +1934,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FractionalizationShould'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FractionalizationShould.fail because of already processed request'">
@@ -1007,6 +1951,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FractionalizationShould.metrics'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FundingShould'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'FundingShould'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FundingShould.fund the product of an investor'">
@@ -1033,6 +1985,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'InvestorsApiStreamsShould'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'InvestorsApiStreamsShould'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'JmxExporterMetricsTest.JmxExporter only registers once'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1047,6 +2007,46 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'JmxExporterMetricsTest.kafka configuration includes rules'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LibraryVersioningPluginTest.versionWritesToFileForJavaProjects'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'LibraryVersioningPluginTest.versionWritesToFileForJavaProjects'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LoanSalesShould.show be able to start quoting when there's no sale in progress'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'LoanSalesShould.show be able to start quoting when there's no sale in progress'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LoanServicingLoanFormedTopologyTest (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'LoanServicingLoanFormedTopologyTest (1)'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LoanServicingLoanFormedTopologyTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'LoanServicingLoanFormedTopologyTest'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LoanServicingRepaymentsTopologyTest [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'LoanServicingRepaymentsTopologyTest [*]'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LoanServicingRepaymentsTopologyTest'">
@@ -1065,12 +2065,212 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MatchingInvestorsSelectorTest.select investors being filtered by different reasons'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'MatchingInvestorsSelectorTest.select investors being filtered by different reasons'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MatchingRepositoryTest.read investor summaries'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'MatchingRepositoryTest.read investor summaries'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MatchingShould'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MatchingShould'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MatchingShould.match a loan to an investor'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'MatchingShould.match a loan to an investor'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MatchingShould.matching same loan should do nothing'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'MatchingShould.matching same loan should do nothing'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MatchingShould.produce a loan creation failed event if it cannot read the loan details from rialto [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'MatchingShould.produce a loan creation failed event if it cannot read the loan details from rialto [*]'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MigrationShould'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'MigrationShould'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MigrationShould.migrate an investor'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'MigrationShould.migrate an investor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MovementsApplierTest.apply one investor movements'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'MovementsApplierTest.apply one investor movements'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'NetAnnualisedReturnTopologyTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'NetAnnualisedReturnTopologyTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OkHttpClientLearningTest.understand how default retries work for read timeout'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OkHttpClientLearningTest.understand how default retries work for read timeout'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OkHttpClientLearningTest.understand how retries work for connect timeout'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OkHttpClientLearningTest.understand how retries work for connect timeout'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OkHttpClientLearningTest.understand how retries work for read timeout with an interceptor [100]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OkHttpClientLearningTest.understand how retries work for read timeout with an interceptor [100]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OkHttpClientTest [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OkHttpClientTest [*]'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OkHttpClientTest.interceptor exhausts all retry opportunities and returns default empty response for read timeouts'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OkHttpClientTest.interceptor exhausts all retry opportunities and returns default empty response for read timeouts'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OkHttpClientTest.interceptor works at third attempt [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OkHttpClientTest.interceptor works at third attempt [*]'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OnBoardingShould'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OnBoardingShould'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OperationStateRepositoryTest [*]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OperationStateRepositoryTest [*]'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OperationStateRepositoryTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OperationStateRepositoryTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrchestratorShould'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrchestratorShould'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrchestratorShould.connect to kafka through toxiproxy'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrchestratorShould.connect to kafka through toxiproxy'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrchestratorShould.queue many task from the worklog and process it later with hiccups in kafka'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrchestratorShould.queue many task from the worklog and process it later with hiccups in kafka'</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrchestratorShould.see what happens when we mutate state but the topology can't commit'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrchestratorShould.see what happens when we mutate state but the topology can't commit'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrchestratorShould.send duplicate completed events after state in redis is mutated'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrchestratorShould.send duplicate completed events after state in redis is mutated'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrchestratorShould.state is mutated and redis just dies'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrchestratorShould.state is mutated and redis just dies'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrchestratorShould.topologies will die because of redis timeout'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'OrchestratorShould.topologies will die because of redis timeout'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OrcoTest'">
@@ -1142,7 +2342,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'StatsApp'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.zopa.investors.api.InvestorsApiApp'">
@@ -1150,7 +2350,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.zopa.investors.api.InvestorsApiApp'</Description>
-          <Count>32</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'">
@@ -1158,7 +2358,23 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃S'</ShortCut>
           <Description>Stop 'com.zopa.investors.api.streams.InvestorsApiStreamsApp'</Description>
-          <Count>4</Count>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.zopa.investors.fractionalization in investors-fractionalization-acceptance-test_test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'com.zopa.investors.fractionalization in investors-fractionalization-acceptance-test_test'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.zopa.investors.simo.SimoApp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'com.zopa.investors.simo.SimoApp'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.zopa.investors.stats.pipeline.PipelineApp'">
@@ -1169,12 +2385,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pid 36664'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌃S'</ShortCut>
+          <Description>Stop 'pid 36664'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -1182,7 +2406,15 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>2</Count>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Symbol...">
+        <Item>
+          <IdeaActionID>GotoSymbol</IdeaActionID>
+          <ShortCut>'⌥⌘O'</ShortCut>
+          <Description>Symbol...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -1190,7 +2422,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -1198,11 +2430,25 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>12</Count>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⇧⌘F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Annotate">
+        <Item>
+          <IdeaActionID>Annotate</IdeaActionID>
+          <Description>Annotate</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Back">
         <Item>
           <IdeaActionID>Back</IdeaActionID>
@@ -1223,6 +2469,14 @@
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click' or 'F3'</ShortCut>
           <Description>Declaration</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete Rows">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'⌘⌫'</ShortCut>
+          <Description>Delete Rows</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Event Log">
@@ -1249,6 +2503,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FractionalizationApp'</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">

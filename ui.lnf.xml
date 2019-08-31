@@ -1,15 +1,15 @@
 <application>
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
-    <option name="UI_SHOW_FILES" value="false" />
     <option name="UI_SHOW_MODULES" value="false" />
-    <option name="UI_FILTER_OUT_OF_CYCLE_PACKAGES" value="false" />
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
   </component>
   <component name="UISettings">
-    <option name="FONT_FACE" value=".SF NS Text" />
-    <option name="FONT_SCALE" value="1.0" />
+    <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="17" />
+    <option name="MAX_LOOKUP_WIDTH2" value="764" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>

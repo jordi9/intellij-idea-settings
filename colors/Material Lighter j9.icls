@@ -1,15 +1,15 @@
 <scheme name="Material Lighter j9" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-10-16T23:32:09</property>
+    <property name="created">2018-10-26T10:12:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-10-16T23:32:21</property>
+    <property name="modified">2018-10-26T10:13:03</property>
     <property name="originalScheme">_@user_Material Lighter</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="cdedb6" />
     <option name="ANNOTATIONS_COLOR" value="474747" />
@@ -98,7 +98,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7c4dff" />
+        <option name="FOREGROUND" value="eea3d9" />
       </value>
     </option>
     <option name="APACHE_CONFIG.ARG_LEXEM">
@@ -118,24 +118,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Abstract class name">
-      <value>
-        <option name="FOREGROUND" value="f6a434" />
-      </value>
-    </option>
     <option name="Annotation">
       <value>
         <option name="FOREGROUND" value="7c4dff" />
-      </value>
-    </option>
-    <option name="Anonymous class name">
-      <value>
-        <option name="FOREGROUND" value="f6a434" />
-      </value>
-    </option>
-    <option name="Anotation attribute name">
-      <value>
-        <option name="FOREGROUND" value="f76d47" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -215,7 +200,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e53935" />
+        <option name="BACKGROUND" value="f6c5ba" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -366,7 +351,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="39adb5" />
+        <option name="FOREGROUND" value="535054" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -478,11 +463,6 @@
       <value>
         <option name="FOREGROUND" value="c93b48" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="Class">
-      <value>
-        <option name="FOREGROUND" value="f6a434" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -674,7 +654,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="f7a9b8" />
+        <option name="FOREGROUND" value="d69aa4" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -749,12 +729,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="91b859" />
-      </value>
-    </option>
-    <option name="Enum name">
-      <value>
-        <option name="FOREGROUND" value="f76d47" />
+        <option name="BACKGROUND" value="e3f3a6" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1370,11 +1345,6 @@
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION">
-      <value>
-        <option name="FOREGROUND" value="7c4dff" />
-      </value>
-    </option>
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
     </option>
@@ -1416,13 +1386,20 @@
     </option>
     <option name="Label">
       <value>
-        <option name="FOREGROUND" value="c17e70" />
+        <option name="FOREGROUND" value="ffa7fd" />
+        <option name="EFFECT_COLOR" value="fed7ff" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="Line comment">
       <value>
         <option name="FOREGROUND" value="aabfc9" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="List/map to object conversion">
+      <value>
+        <option name="FOREGROUND" value="99c15a" />
       </value>
     </option>
     <option name="MACRONAME">
@@ -2020,7 +1997,7 @@
     </option>
     <option name="Map key">
       <value>
-        <option name="FOREGROUND" value="91b859" />
+        <option name="FOREGROUND" value="99c15a" />
       </value>
     </option>
     <option name="Method call">
@@ -2036,13 +2013,7 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c90f0c" />
-        <option name="EFFECT_COLOR" value="c90f0c" />
         <option name="EFFECT_TYPE" value="4" />
-      </value>
-    </option>
-    <option name="Number">
-      <value>
-        <option name="FOREGROUND" value="f76d47" />
       </value>
     </option>
     <option name="OC.BADCHARACTER">
@@ -2988,7 +2959,7 @@
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b9e25b" />
+        <option name="FOREGROUND" value="eea3d9" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3265,26 +3236,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static field">
-      <value>
-        <option name="FOREGROUND" value="f76d47" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="Static method access">
       <value>
         <option name="FOREGROUND" value="6182b8" />
-      </value>
-    </option>
-    <option name="Static property reference ID">
-      <value>
-        <option name="FOREGROUND" value="f76d47" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="String">
-      <value>
-        <option name="FOREGROUND" value="91b859" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_TAG">
@@ -3344,11 +3298,6 @@
         <option name="FOREGROUND" value="91b859" />
       </value>
     </option>
-    <option name="Type parameter">
-      <value>
-        <option name="FOREGROUND" value="f76d47" />
-      </value>
-    </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d1243b" />
@@ -3356,7 +3305,10 @@
     </option>
     <option name="Unresolved reference access">
       <value>
-        <option name="FOREGROUND" value="39adb5" />
+        <option name="FOREGROUND" value="e12c07" />
+        <option name="EFFECT_COLOR" value="e12c07" />
+        <option name="ERROR_STRIPE_COLOR" value="e12c07" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="VELOCITY_KEYWORD">
@@ -3373,11 +3325,6 @@
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="252b39" />
-      </value>
-    </option>
-    <option name="Valid string escape">
-      <value>
-        <option name="FOREGROUND" value="91b859" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
@@ -3401,6 +3348,8 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc3f3c" />
+        <option name="EFFECT_COLOR" value="c90f0c" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="XML_NS_PREFIX">

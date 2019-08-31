@@ -4,8 +4,14 @@
       <blacklist language="Java">
         <added pattern="com.zopa.investors.fractionalization.component.orchestrator.OrchestratorRequest.OrchestratorRequest(request,createMovementsFunction,updateRedisFunction)" />
       </blacklist>
+      <blacklist language="Groovy">
+        <added pattern="com.zopa.investors.learning.Command.key(key)" />
+        <added pattern="com.zopa.investors.learning.Command.value(value)" />
+        <added pattern="com.zopa.investors.learning.ExecutionModelAndScalingTest.command(keyValue)" />
+      </blacklist>
     </blacklists>
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
