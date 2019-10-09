@@ -4,7 +4,7 @@
     <property name="created">2018-10-16T15:12:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2019-07-25T17:09:26</property>
+    <property name="modified">2019-10-09T08:36:15</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -3307,10 +3307,9 @@
     </option>
     <option name="Unresolved reference access">
       <value>
-        <option name="FOREGROUND" value="e12c07" />
-        <option name="EFFECT_COLOR" value="e12c07" />
-        <option name="ERROR_STRIPE_COLOR" value="e12c07" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="FOREGROUND" value="5e585e" />
+        <option name="ERROR_STRIPE_COLOR" value="5e585e" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="VELOCITY_KEYWORD">
