@@ -1,0 +1,100 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="write_stats@staging" uuid="62f339b9-fa67-46a5-bb34-0ae03a2bd566">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://uat-rds-aurora-pg01-write.db.aws.ad.zopa.com/investor_stats</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="zz_migration@dcwsql03.prod.ad.zopa.com" uuid="3fdf5d05-c231-4ef0-bf81-6aa869711291">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dcwsql03.prod.ad.zopa.com;database=Migration</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+        <property name="appName" value="DataGrip" />
+        <property name="DOMAIN" value="ZOPIAN" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="write@staging" uuid="7235a470-f85e-46fe-a19b-2aa8f21a0454">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://uat-rds-aurora-pg01-write.db.aws.ad.zopa.com:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="read@prod" uuid="c76e95ca-6eb3-4f8c-a7a8-33ed691284ec">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prod-rds-aurora-pg01-read.db.aws.ad.zopa.com/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="read@staging" uuid="68955b25-a5d2-4ddd-9235-1a08cc1c187e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://uat-rds-aurora-pg01-read.db.aws.ad.zopa.com:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="zz@localhost" uuid="9e604412-c6cf-403d-baa2-bbb8ab7d9955">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://localhost</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+        <property name="appName" value="DataGrip" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="redshift@test" uuid="1191dbd2-62db-427e-81a8-e61110b06855">
+      <driver-ref>redshift</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.amazon.redshift.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:redshift://10.10.10.70:5439/test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@localhost" uuid="4803f9c9-4060-4e79-8c78-af14cc9a8844">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="write_simo@staging" uuid="a49b1488-f8a2-43ec-95a0-b20e484b4fcb">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://uat-rds-aurora-pg01-write.db.aws.ad.zopa.com/investor_simo</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="zz@frozen" uuid="0cae7f71-4a1a-481a-bdfa-0278cbc54f3b">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://dcwsql03.prod.ad.zopa.com</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+        <property name="appName" value="DataGrip" />
+        <property name="DOMAIN" value="ZOPIAN" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="zz@sql.uat.zopian.ad.zopa.com" uuid="5bda41cc-c081-46e9-ba8d-9b09c8c34199">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://sql.uat.zopian.ad.zopa.com</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+        <property name="appName" value="DataGrip" />
+        <property name="DOMAIN" value="Zopian" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="zz@db.prod.ad.zopa.com" uuid="07b14f70-cda8-43dd-8078-9e9e3c878f62">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://db.prod.ad.zopa.com</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+        <property name="appName" value="DataGrip" />
+        <property name="DOMAIN" value="ZOPIAN" />
+      </driver-properties>
+    </data-source>
+  </component>
+</application>
