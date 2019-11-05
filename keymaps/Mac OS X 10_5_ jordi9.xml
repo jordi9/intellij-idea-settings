@@ -31,6 +31,9 @@
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DockPinnedMode">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
@@ -74,6 +77,9 @@
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="FloatMode">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
@@ -86,6 +92,7 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="GotoBookmark2" />
   <action id="GotoBookmark7" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
