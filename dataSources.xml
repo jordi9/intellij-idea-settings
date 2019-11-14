@@ -7,14 +7,12 @@
       <jdbc-url>jdbc:postgresql://uat-rds-aurora-pg01-write.db.aws.ad.zopa.com/investor_stats</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="zz@dcwsql03.prod.ad.zopa.com" uuid="3fdf5d05-c231-4ef0-bf81-6aa869711291">
-      <driver-ref>sqlserver.ms</driver-ref>
+      <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://dcwsql03.prod.ad.zopa.com;database=Migration</jdbc-url>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://dcwsql03.prod.ad.zopa.com/Migration</jdbc-url>
       <driver-properties>
         <property name="applicationName" value="DataGrip" />
-        <property name="appName" value="DataGrip" />
-        <property name="DOMAIN" value="ZOPIAN" />
       </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="write@staging" uuid="7235a470-f85e-46fe-a19b-2aa8f21a0454">
