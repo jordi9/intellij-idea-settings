@@ -6,7 +6,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://uat-rds-aurora-pg01-write.db.aws.ad.zopa.com/investor_stats</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="zz@dcwsql03.prod.ad.zopa.com" uuid="3fdf5d05-c231-4ef0-bf81-6aa869711291">
+    <data-source source="LOCAL" name="zz@dcwsql03.prod.ad.zopa.com" group="sqlserver" uuid="3fdf5d05-c231-4ef0-bf81-6aa869711291">
       <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
@@ -33,7 +33,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://uat-rds-aurora-pg01-read.db.aws.ad.zopa.com:5432/postgres</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="zz@localhost" uuid="9e604412-c6cf-403d-baa2-bbb8ab7d9955">
+    <data-source source="LOCAL" name="zz@localhost" group="sqlserver" uuid="9e604412-c6cf-403d-baa2-bbb8ab7d9955">
       <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
@@ -43,7 +43,7 @@
         <property name="appName" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="redshift@test" uuid="1191dbd2-62db-427e-81a8-e61110b06855">
+    <data-source source="LOCAL" name="redshift" uuid="1191dbd2-62db-427e-81a8-e61110b06855">
       <driver-ref>redshift</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.amazon.redshift.jdbc.Driver</jdbc-driver>
@@ -61,7 +61,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://uat-rds-aurora-pg01-write.db.aws.ad.zopa.com/investor_simo</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="zz@frozen" uuid="0cae7f71-4a1a-481a-bdfa-0278cbc54f3b">
+    <data-source source="LOCAL" name="zz@frozen" group="sqlserver" uuid="0cae7f71-4a1a-481a-bdfa-0278cbc54f3b">
       <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
@@ -72,7 +72,7 @@
         <property name="DOMAIN" value="ZOPIAN" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="zz@sql.uat.zopian.ad.zopa.com" uuid="5bda41cc-c081-46e9-ba8d-9b09c8c34199">
+    <data-source source="LOCAL" name="zz@sql.uat.zopian.ad.zopa.com" group="sqlserver" uuid="5bda41cc-c081-46e9-ba8d-9b09c8c34199">
       <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
@@ -83,7 +83,7 @@
         <property name="DOMAIN" value="Zopian" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="zz@db.prod.ad.zopa.com" uuid="07b14f70-cda8-43dd-8078-9e9e3c878f62">
+    <data-source source="LOCAL" name="zz@db.prod.ad.zopa.com" group="sqlserver" uuid="07b14f70-cda8-43dd-8078-9e9e3c878f62">
       <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
@@ -93,6 +93,18 @@
         <property name="appName" value="DataGrip" />
         <property name="DOMAIN" value="ZOPIAN" />
       </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="investor_salesforce@staging:read" uuid="f49cb399-4bde-4426-aca3-e7f7333b6814">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://uat-rds-aurora-pg01-read.db.aws.ad.zopa.com:5432/investor_salesforce</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="investor_mission_control@staging:read" uuid="6fc47ee8-7545-47f9-9d93-29871e66b184">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://uat-rds-aurora-pg01-read.db.aws.ad.zopa.com:5432/investor_mission_control</jdbc-url>
     </data-source>
   </component>
 </application>
