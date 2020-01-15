@@ -10,6 +10,7 @@
         <added pattern="com.zopa.investors.learning.ExecutionModelAndScalingTest.command(keyValue)" />
       </blacklist>
     </blacklists>
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
   </component>
 </application>
