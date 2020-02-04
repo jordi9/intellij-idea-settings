@@ -4,7 +4,7 @@
     <property name="created">2018-10-16T15:12:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2020-01-16T08:39:42</property>
+    <property name="modified">2020-02-04T10:38:10</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -450,7 +450,6 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="3f51b5" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -1099,7 +1098,7 @@
       <value>
         <option name="EFFECT_COLOR" value="efcce4" />
         <option name="ERROR_STRIPE_COLOR" value="aeae80" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
