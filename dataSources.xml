@@ -79,7 +79,6 @@
       <jdbc-url>jdbc:jtds:sqlserver://sql.uat.zopian.ad.zopa.com</jdbc-url>
       <driver-properties>
         <property name="applicationName" value="DataGrip" />
-        <property name="appName" value="DataGrip" />
         <property name="DOMAIN" value="Zopian" />
       </driver-properties>
     </data-source>
