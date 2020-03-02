@@ -1,0 +1,7 @@
+<templateSet group="Spock">
+  <template name="spgwt" value="def &quot;$END$&quot;() {&#10;  given:&#10;  //TODO&#10;  when:&#10;  //TODO&#10;  then:&#10;  //TODO&#10;}" description="Spock given/when/then" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
