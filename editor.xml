@@ -1,47 +1,5 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
-    <EXCLUDED_PACKAGE NAME="avro.shaded" />
-    <EXCLUDED_PACKAGE NAME="com.fasterxml.jackson.core.util.Separators" />
-    <EXCLUDED_PACKAGE NAME="com.google.inject.Inject" />
-    <EXCLUDED_PACKAGE NAME="com.google.inject.Inject" />
-    <EXCLUDED_PACKAGE NAME="com.google.inject.Singleton" />
-    <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
-    <EXCLUDED_PACKAGE NAME="com.sun.org.apache" />
-    <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
-    <EXCLUDED_PACKAGE NAME="javafx.animation" />
-    <EXCLUDED_PACKAGE NAME="javax.security.auth.Subject" />
-    <EXCLUDED_PACKAGE NAME="javax.swing" />
-    <EXCLUDED_PACKAGE NAME="javax.xml.crypto.dsig.keyinfo" />
-    <EXCLUDED_PACKAGE NAME="javax.xml.ws.handler.Handler" />
-    <EXCLUDED_PACKAGE NAME="org.apache.kafka.common.metrics.stats.Rate" />
-    <EXCLUDED_PACKAGE NAME="org.rocksdb.Checkpoint" />
-    <EXCLUDED_PACKAGE NAME="scala" />
-    <EXCLUDED_PACKAGE NAME="scala.collection" />
-    <EXCLUDED_PACKAGE NAME="sun.net.www.protocol" />
-    <EXCLUDED_PACKAGE NAME="sun.plugin.net.protocol.jar.Handler" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-  </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="kotlin" value="true" />
-      </map>
-    </option>
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_CAMEL_WORDS" value="true" />
-  </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-    <pattern icon="question" useCustomColors="true" pattern="\byolo\b.*">
-      <option name="FOREGROUND" value="f20abe" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="EFFECT_TYPE" value="2" />
-    </pattern>
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
