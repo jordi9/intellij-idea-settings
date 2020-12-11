@@ -4,7 +4,7 @@
     <property name="created">2018-10-26T10:12:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2020-04-20T14:32:52</property>
+    <property name="modified">2020-12-11T18:37:39</property>
     <property name="originalScheme">_@user_Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -202,7 +202,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f6c5ba" />
+        <option name="BACKGROUND" value="f6e8e0" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
