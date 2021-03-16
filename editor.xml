@@ -8,5 +8,11 @@
       <option name="FOREGROUND" value="fabada" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
+    <pattern useCustomColors="true" pattern="\b(given|when|then)\b.*">
+      <option name="FOREGROUND" value="fabaef" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="e475e5" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
   </component>
 </application>
