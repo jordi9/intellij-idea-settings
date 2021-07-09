@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="0705ad09-bd3e-4f01-b7ce-adb75c068778" name="jordigerona">
+      <server useHttp="false" host="github.bumble.dev" />
+    </account>
+  </component>
+</application>
